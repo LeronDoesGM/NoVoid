@@ -1,6 +1,6 @@
 name: NoVoid
 main: LeronDoesGM\NoVoid\Main
-version: 1.0.0
+version: 1.0.1
 author: [LeronDoesGM]
 api: [3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6]
 load: POSTWORLD
